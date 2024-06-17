@@ -9,9 +9,9 @@
 
 
 
-- 🔭 I’m currently working on **Movie Finder**
+- 🔭 I’m currently working on **Tweetify**
 
-- 🌱 I’m currently learning **Javascript, MERN**
+- 🌱 I’m currently learning **React, MERN**
 
 - 📫 How to reach me **ayush2005raj@gmail.com**
 
